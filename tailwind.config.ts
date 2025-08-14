@@ -25,12 +25,19 @@ export default {
 				background: 'hsl(var(--background))',
 				foreground: 'hsl(var(--foreground))',
 				primary: {
-					DEFAULT: 'hsl(var(--primary))',
-					foreground: 'hsl(var(--primary-foreground))'
+					DEFAULT: '#2563EB',
+					foreground: '#FFFFFF'
 				},
 				secondary: {
-					DEFAULT: 'hsl(var(--secondary))',
-					foreground: 'hsl(var(--secondary-foreground))'
+					DEFAULT: '#1E40AF',
+					foreground: '#FFFFFF'
+				},
+				medical: {
+					blue: '#2563EB',
+					darkBlue: '#1E40AF',
+					white: '#FFFFFF',
+					gray: '#F8FAFC',
+					lightGray: '#F1F5F9',
 				},
 				destructive: {
 					DEFAULT: 'hsl(var(--destructive))',
