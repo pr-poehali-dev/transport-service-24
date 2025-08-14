@@ -81,7 +81,7 @@ const Index = () => {
                     <div className="w-16 h-16 bg-secondary rounded-full flex items-center justify-center mx-auto mb-4">
                       <Icon name="MapPin" size={24} className="text-white" />
                     </div>
-                    <h3 className="font-semibold text-gray-800">По городу</h3>
+                    <h3 className="font-semibold text-gray-800">По Тольятти</h3>
                     <p className="text-sm text-gray-600">И области</p>
                   </div>
                 </div>
@@ -251,7 +251,7 @@ const Index = () => {
                   <Icon name="CheckCircle" size={20} className="text-green-500 mr-3 mt-1" />
                   <div>
                     <h4 className="font-semibold text-gray-800">Быстрая подача</h4>
-                    <p className="text-gray-600 text-sm">Прибытие в течение 30-60 минут по городу</p>
+                    <p className="text-gray-600 text-sm">Прибытие в течение 30-60 минут по Тольятти</p>
                   </div>
                 </div>
               </div>
@@ -300,7 +300,7 @@ const Index = () => {
                   <div>
                     <h3 className="text-xl font-bold text-gray-800 mb-2">Адрес</h3>
                     <p className="text-gray-600 mb-1">Главный офис</p>
-                    <p className="text-lg text-gray-800">г. Москва, ул. Медицинская, 15</p>
+                    <p className="text-lg text-gray-800">Самарская область, г. Тольятти</p>
                   </div>
                 </div>
 
@@ -386,7 +386,7 @@ const Index = () => {
               </div>
               <p className="text-gray-400 mb-4">
                 Надежный медицинский транспорт для людей с ограниченной подвижностью. 
-                Работаем круглосуточно по всей Москве и области.
+                Работаем круглосуточно по Тольятти и Самарской области.
               </p>
               <div className="flex space-x-4">
                 <Button variant="outline" size="sm">
@@ -411,7 +411,7 @@ const Index = () => {
               <ul className="space-y-2 text-gray-400">
                 <li>+7 (926) 624-82-89</li>
                 <li>info@medtransport.ru</li>
-                <li>г. Москва, ул. Медицинская, 15</li>
+                <li>Самарская область, г. Тольятти</li>
               </ul>
             </div>
           </div>
