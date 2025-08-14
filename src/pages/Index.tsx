@@ -278,8 +278,7 @@ const Index = () => {
                   <div>
                     <h3 className="text-xl font-bold text-gray-800 mb-2">Телефон</h3>
                     <p className="text-gray-600 mb-1">Круглосуточная диспетчерская служба</p>
-                    <p className="text-2xl font-bold text-primary">+7 (495) 123-45-67</p>
-                    <p className="text-lg text-primary">+7 (800) 123-45-67</p>
+                    <p className="text-2xl font-bold text-primary">+7 (926) 624-82-89</p>
                   </div>
                 </div>
 
@@ -410,8 +409,7 @@ const Index = () => {
             <div>
               <h4 className="text-lg font-semibold mb-4">Контакты</h4>
               <ul className="space-y-2 text-gray-400">
-                <li>+7 (495) 123-45-67</li>
-                <li>+7 (800) 123-45-67</li>
+                <li>+7 (926) 624-82-89</li>
                 <li>info@medtransport.ru</li>
                 <li>г. Москва, ул. Медицинская, 15</li>
               </ul>
